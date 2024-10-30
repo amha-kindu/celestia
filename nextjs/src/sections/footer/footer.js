@@ -25,7 +25,7 @@ const Footer = () => {
             <Typography variant="body1">
                 © Copyright {currentYear} |
                 <Link
-                    href="https://github.com/georgekhananaev"
+                    href="https://github.com/amha-kindu"
                     target="_blank"
                     rel="noopener noreferrer"
                     underline="none"
@@ -39,7 +39,7 @@ const Footer = () => {
                 <Tooltip title="GitHub">
                     <IconButton
                         component="a"
-                        href="https://github.com/georgekhananaev"
+                        href="https://github.com/amha-kindu"
                         target="_blank"
                         rel="noopener noreferrer"
                         size="small"
@@ -52,7 +52,7 @@ const Footer = () => {
                 <Tooltip title="LinkedIn">
                     <IconButton
                         component="a"
-                        href="https://www.linkedin.com/in/georgekhananaev/"
+                        href="https://www.linkedin.com/in/amha-kindu/"
                         target="_blank"
                         rel="noopener noreferrer"
                         size="small"
@@ -65,7 +65,7 @@ const Footer = () => {
                 <Tooltip title="Buy me a coffee">
                     <IconButton
                         component="a"
-                        href="https://www.buymeacoffee.com/georgekhananaev"
+                        href="https://www.buymeacoffee.com/amha-kindu"
                         target="_blank"
                         rel="noopener noreferrer"
                         size="small"

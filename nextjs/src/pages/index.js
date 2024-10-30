@@ -208,13 +208,13 @@ const Home = () => {
                                                 <Box sx={{bgcolor: 'background.paper', borderRadius: 2, p: 2}}>
                     <pre>
                         <code>
-                            git clone https://github.com/georgekhananaev/Celestia
+                            git clone https://github.com/amha-kindu/Celestia
                         </code>
                     </pre>
                                                 </Box>
                                             </Box>
                                             <IconButton
-                                                onClick={() => handleCopyClick('git clone https://github.com/georgekhananaev/Celestia')}>
+                                                onClick={() => handleCopyClick('git clone https://github.com/amha-kindu/Celestia')}>
                                                 <FileCopyIcon/>
                                             </IconButton>
                                         </Box>
@@ -288,9 +288,9 @@ open_ai_secret_key=sk-your_openai_key`}
 
                                         <Typography sx={{mt: 3}}>
                                             Need more detailed instructions? Check on GitHub: <Link
-                                            href="https://github.com/georgekhananaev/" target="_blank"
+                                            href="https://github.com/amha-kindu/" target="_blank"
                                             rel="noopener noreferrer">
-                                            https://github.com/georgekhananaev/
+                                            https://github.com/amha-kindu/
                                         </Link>
                                         </Typography>
                                     </>

@@ -59,7 +59,7 @@ Once you have Docker and Python installed, you're ready to proceed with the proj
 
 ### Clone the Repository
    ```shell
-   git clone https://github.com/georgekhananaev/Celestia
+   git clone https://github.com/amha-kindu/Celestia
    ```
 
 ### Docker Installation for Full Deployment (4 Containers)
@@ -230,10 +230,10 @@ If you have ideas on how we can grow it into something greater, please share you
 
 ## Support Me
 
-If you find my work helpful, consider supporting me by buying me a coffee at [Buy Me A Coffee](https://www.buymeacoffee.com/georgekhananaev).
+If you find my work helpful, consider supporting me by buying me a coffee at [Buy Me A Coffee](https://www.buymeacoffee.com/amha-kindu).
 
 Your support helps me continue to create and maintain useful projects.
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/georgekhananaev)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/amha-kindu)
 
 Thank you!
