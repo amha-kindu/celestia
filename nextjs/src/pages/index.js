@@ -95,7 +95,7 @@ const Home = () => {
                                 {/* README content starts here */}
                                 {section.id === 'overview' && (
                                     <Typography paragraph>
-                                        PyNextStack is a full-stack system utilizing FastAPI with asynchronous
+                                        Celestia is a full-stack system utilizing FastAPI with asynchronous
                                         capabilities on the
                                         backend and Next.js for the frontend showcases the robustness of Python in
                                         server-side development. This architecture provides a scalable, efficient
@@ -194,7 +194,7 @@ const Home = () => {
                                                 width="100%"
                                                 height="615"
                                                 src="https://www.youtube.com/embed/H2oYT-Ame9w"
-                                                title="How to Install PyNextStack Tutorial"
+                                                title="How to Install Celestia Tutorial"
                                                 frameBorder="0"
                                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                                 allowFullScreen
@@ -208,13 +208,13 @@ const Home = () => {
                                                 <Box sx={{bgcolor: 'background.paper', borderRadius: 2, p: 2}}>
                     <pre>
                         <code>
-                            git clone https://github.com/georgekhananaev/PyNextStack
+                            git clone https://github.com/georgekhananaev/Celestia
                         </code>
                     </pre>
                                                 </Box>
                                             </Box>
                                             <IconButton
-                                                onClick={() => handleCopyClick('git clone https://github.com/georgekhananaev/PyNextStack')}>
+                                                onClick={() => handleCopyClick('git clone https://github.com/georgekhananaev/Celestia')}>
                                                 <FileCopyIcon/>
                                             </IconButton>
                                         </Box>

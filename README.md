@@ -1,18 +1,8 @@
-# PyNextStack a Full-Stack User Management System with FastAPI, Next.js, and MUI & More...
+# Celestia a Full-Stack User Management System with FastAPI, Next.js, and MUI & More...
 
-
-DEMO: [https://demo-pynextstack.reactatomics.com](https://demo-pynextstack.reactatomics.com)
-
-```
-Username: root
-Password: bringthemhome
-```
-For the DEMO, only one root user can be logged in at a time. Therefore, it is recommended to register your own user first and then promptly log in as the root user to change your role. Otherwise, you might cause each other to be disconnected while trying the demo.
-
-Please note that in the demo version, ChatGPT will not function as it is not connected to the API. Additionally, you have the option to modify the SMTP settings to suit your needs for testing the forgot-password functionality. It has been successfully tested with GMAIL. Later on, I will disable the edit functionality and added my own SMTP settings for your testing convenience for now just use it as it please.
 ## Overview
 
-PyNextStack is a full-stack system utilizing FastAPI with asynchronous capabilities on the backend and Next.js for the frontend showcases the robustness of Python in server-side development. This architecture provides a scalable, efficient solution that leverages FastAPI's high performance and ease of use for creating APIs, alongside Next.js for a reactive and server-side rendered user interface. The asynchronous nature of the backend ensures non-blocking operation, enhancing the system's ability to handle high volumes of requests simultaneously, which is ideal for real-time applications. This combination offers a modern, full-stack framework that is both powerful and developer-friendly, demonstrating the versatility of Python in web development.
+Celestia is a full-stack system utilizing FastAPI with asynchronous capabilities on the backend and Next.js for the frontend showcases the robustness of Python in server-side development. This architecture provides a scalable, efficient solution that leverages FastAPI's high performance and ease of use for creating APIs, alongside Next.js for a reactive and server-side rendered user interface. The asynchronous nature of the backend ensures non-blocking operation, enhancing the system's ability to handle high volumes of requests simultaneously, which is ideal for real-time applications. This combination offers a modern, full-stack framework that is both powerful and developer-friendly, demonstrating the versatility of Python in web development.
 
 ## Key Features
 
@@ -69,7 +59,7 @@ Once you have Docker and Python installed, you're ready to proceed with the proj
 
 ### Clone the Repository
    ```shell
-   git clone https://github.com/georgekhananaev/PyNextStack
+   git clone https://github.com/georgekhananaev/Celestia
    ```
 
 ### Docker Installation for Full Deployment (4 Containers)

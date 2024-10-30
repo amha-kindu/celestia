@@ -97,7 +97,7 @@ function MyApp({Component, pageProps}) {
                         detectRetina: true,
                     }}/>
                     <ScrollToTop>
-                        <Menu title="PyNextStack" subtitle={getVersion()} navItems={menuItems}/>
+                        <Menu title="Celestia" subtitle={getVersion()} navItems={menuItems}/>
                         <WrapperEffects effect={"softSlideInDown"} pageProps={pageProps}>
 
                             <Container sx={{mt: 3}}>
