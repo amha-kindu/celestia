@@ -32,7 +32,7 @@ const Footer = () => {
                     color="inherit"
                     sx={{mx: 0.5}}
                 >
-                    George Khananaev
+                    Amha Kindu
                 </Link>
             </Typography>
             <Box sx={{mt: 1}}>

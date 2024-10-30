@@ -352,7 +352,7 @@ open_ai_secret_key=sk-your_openai_key`}
                                     <Typography paragraph>
                                         <strong>MIT License</strong>
                                         <br/><br/>
-                                        Copyright (c) 2024 George Khananaev
+                                        Copyright (c) 2024 Amha Kindu
                                         <br/><br/>
                                         Permission is hereby granted, free of charge, to any person obtaining a copy
                                         of this software and associated documentation files (the "Software"), to deal
@@ -377,7 +377,7 @@ open_ai_secret_key=sk-your_openai_key`}
                                 {section.id === 'credits' && (
                                     <>
                                         <Typography paragraph>
-                                            Developed by George Khananaev.
+                                            Developed by Amha Kindu.
                                         </Typography>
                                         <Typography paragraph>
                                             Thanks to the FastAPI, MongoDB, Redis, and Docker communities for support

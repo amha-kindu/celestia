@@ -211,29 +211,7 @@ This application implements advanced security practices including password hashi
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Credits
-- Developed by George Khananaev.
+- Developed by Amha Kindu.
 - Thanks to the FastAPI, MongoDB, Redis, and Docker communities for support and resources.
-
-## Additional Requests
-
-If you have ideas on how we can grow it into something greater, please share your suggestions. Additionally, if you have any special requests or unique features you'd like to see implemented, feel free to include those as well.
-
-## Goals
-
-**Upon reaching 100 stars, the project will incorporate the following features:**
-
-1. Firebase authentication support will be integrated.
-2. Two-Factor Authentication will be implemented.
-3. SMS and WhatsApp support will be added to the backend with TWILIO.
-4. File handling capabilities, utilizing either Google Storage or AWS.
-5. Enhanced email handling, including functionalities such as Inbox, Outgoing, Draft, etc.
-
-## Support Me
-
-If you find my work helpful, consider supporting me by buying me a coffee at [Buy Me A Coffee](https://www.buymeacoffee.com/amha-kindu).
-
-Your support helps me continue to create and maintain useful projects.
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/amha-kindu)
 
 Thank you!
