@@ -67,12 +67,6 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 Once you have Docker and Python installed, you're ready to proceed with the project setup. The next sections will guide you through configuring your development environment, running the project with Docker, and executing any necessary Python scripts or commands.
 
-
-
-**You can watch this:**
-[![IMAGE ALT TEXT HERE](/screenshots/youtube.png)](https://youtu.be/H2oYT-Ame9w)
-
-
 ### Clone the Repository
    ```shell
    git clone https://github.com/georgekhananaev/PyNextStack
